@@ -1,16 +1,44 @@
-# personal_profile
+# 👤 Personal Profile App
 
-A new Flutter project.
+A simple and responsive Flutter application for managing user profile data with image upload, local storage using `SharedPreferences`, and intuitive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- Edit & view personal profile
+- Image upload using camera or gallery
+- Save data locally with `SharedPreferences`
+- Formatted date picker for DOB
+- Gender selection via dropdown
+- Profile preview on the Home screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens
+
+| Screen         | Description                       |
+|----------------|-----------------------------------|
+| **HomePage**   | Shows saved user profile          |
+| **EditProfile**| Lets users update their profile   |
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+├── main.dart
+├── home_page.dart
+├── edit_profile.dart
+assets/
+└── new.png
+```
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](assets/screenshots/home.jpg)
+
+### ✏️ Edit Profile Page
+![Edit Profile](assets/screenshots/edit_profile.jpg)
