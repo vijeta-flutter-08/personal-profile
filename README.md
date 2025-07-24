@@ -38,7 +38,8 @@ assets/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](assets/screenshots/home.jpg)
+<img src="assets/screenshots/home.jpg" alt="Home" width="300"/>
 
 ### ✏️ Edit Profile Page
-![Edit Profile](assets/screenshots/edit_profile.jpg)
+<img src="assets/screenshots/edit_profile.jpg" alt="Edit Profile" width="300"/>
+
